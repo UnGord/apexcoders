@@ -1,0 +1,64 @@
+/* styling facebook */
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+.fbcont{
+    margin: 10% 0;
+}
+.facebook{
+    color: rgb(0, 60, 255);
+    font-size: 80px;
+    font: bolder;
+    font-weight: bolder;
+}
+.forgot{
+    text-align: center;
+}
+.page{
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+}
+.back{
+    color: black;
+    text-align: center;
+    font-size: small;
+}
+.pad div{
+    padding-left: 15%;
+    padding-top: 15%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+.pad2{
+    padding-left: 15%;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    width: 100%;
+}
+.pad2 form{
+    text-align: center;
+    width: 60%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 1px solid darkgray;
+    padding: 15px;
+    border-radius: 1rem;
+}
+.pad2 a{
+    text-decoration: none;
+}
+.pad2 a:hover{
+    text-decoration: underline;
+}
+.pad2 p{
+    text-align: center;
+    margin-top: 20px;
+}
+.pad2 .btn-primary{
+    width: 100%;
+}
